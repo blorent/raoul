@@ -31,6 +31,8 @@
 
 				<p>Notre but est de fournir un service de qualit&eacute; et de satisfaire tous nos clients.</p>
 
+				<h2>R&eacute;f&eacute;rences</h2>
+
 				<div id="gallery">
 
 		        <?php

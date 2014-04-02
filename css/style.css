@@ -60,7 +60,7 @@ border-bottom : 0px solid;
 color : #272727;
 font-size : 26px;
 font-weight : bold;
-font-family : sans-serif;
+font-family : Verdana,Arial, sans-serif;
 padding-bottom : 5px;
 display : none;
 }
@@ -71,7 +71,7 @@ margin-left : 0px;
 margin-top : 20px;
 font-size : 12px;
 color : #272727;
-font-family : sans-serif;
+font-family : Verdana,Arial, sans-serif;
 }
 
 .textBody ul {
@@ -81,6 +81,14 @@ margin-top : 20px;
 font-size : 12px;
 color : #272727;
 font-family : sans-serif;
+}
+
+.textBody h2
+{
+font-family : Verdana,Arial, sans-serif;
+font-size : 19px;
+color : #666;
+margin-top : 55px;	
 }
 
 
@@ -109,7 +117,15 @@ color : #4b6a26;
 border-color : #4b6a26;
 }
 
-
+#textbody_index img{
+	float : right;
+	margin-right : 25px;
+	width : 250px;
+	margin-top : 35px;
+	margin-left : 20px;
+	border : 3px solid #ccc;
+	margin-bottom: 25px;
+}
 
 #menu {
 width  : 240px;

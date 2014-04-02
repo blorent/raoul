@@ -19,6 +19,8 @@
 
 				<h1>Pr&eacute;sentation De Notre Travail</h1>
 
+				<img src="gallery/img013.jpg" />
+
 				<p>Disponible pour vous guider &agrave; chaque &eacute;tape dans le choix et la s&eacute;lection des accessoires qui contribueront &agrave; rendre votre projet &agrave; la hauteur de vos esp&eacute;rances.</p>
 						
 				<p>Que ce soit pour un petit travail ou un chantier de grande envergure, n'h&eacute;sitez pas &agrave; nous contacter lors de la conception de votre projet
