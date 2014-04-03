@@ -1,5 +1,5 @@
 			<div id="logo">
-				<img src="images/logo_sherlock2.jpg" alt="Logo Toitures Defechereux"/>
+				<img src="images/logo3.png"  alt="Logo Toitures Defechereux"/>
 			</div>
 			<div id="menu">
 				<ul>
