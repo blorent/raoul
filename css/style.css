@@ -91,30 +91,41 @@ color : #666;
 margin-top : 55px;	
 }
 
+/*
+c15050
+db9969
+3d609f
+4b6a26
+
+ec800c
+d28736
+d29757
+dcaf7e
+*/
 
 #textbody_index h1
 {
-color : #c15050;
-border-color : #c15050;
+color : #ec800c;
+border-color : #ec800c;
 }
 
 #textbody_services h1
 {
-color : #db9969;
-border-color : #db9969;
+color : #d28736;
+border-color : #d28736;
 }
 
 #textbody_real h1
 {
-color : #3d609f;
-border-color : #3d609f;
+color : #d29757;
+border-color : #d29757;
 }
 
 
 #textbody_contact h1
 {
-color : #4b6a26;
-border-color : #4b6a26;
+color : #dcaf7e;
+border-color : #dcaf7e;
 }
 
 #textbody_index img{
@@ -146,10 +157,10 @@ margin : 0px;
 padding: 19px 11px 19px 9px;
 }
 
-#menu ul li.accueil { border-color : #c15050; }
-#menu ul li.services { border-color : #db9969; }
-#menu ul li.realisations { border-color : #3d609f; }
-#menu ul li.contact { border-color : #4b6a26; }
+#menu ul li.accueil { border-color : #ec800c; }
+#menu ul li.services { border-color : #d28736; }
+#menu ul li.realisations { border-color : #d29757; }
+#menu ul li.contact { border-color : #dcaf7e; }
 
 #menu ul li a {
 color: white;
@@ -168,15 +179,15 @@ border-top : 1px solid white;
 background : red;
 }
 
-#menu ul li.accueil a:hover { background : #c15050; }
-#menu ul li.services a:hover { background : #db9969; }
-#menu ul li.realisations a:hover { background : #3d609f; }
-#menu ul li.contact a:hover { background : #4b6a26; }
+#menu ul li.accueil a:hover { background : #ec800c; }
+#menu ul li.services a:hover { background : #d28736; }
+#menu ul li.realisations a:hover { background : #d29757; }
+#menu ul li.contact a:hover { background : #dcaf7e; }
 
-#menu ul li.accueil a.active { background : #c15050; }
-#menu ul li.services a.active { background : #db9969; }
-#menu ul li.realisations a.active { background : #3d609f; }
-#menu ul li.contact a.active { background : #4b6a26; }
+#menu ul li.accueil a.active { background : #ec800c; }
+#menu ul li.services a.active { background : #d28736; }
+#menu ul li.realisations a.active { background : #d29757; }
+#menu ul li.contact a.active { background : #dcaf7e; }
 
 
 #gallery .category img {
@@ -232,8 +243,8 @@ text-decoration: none;
 
 /* non IE  hover */
 div.thumbnail:hover{
-background: #3d609f;
-color: #3d609f;
+background: #d29757;
+color: #d29757;
 font-weight: bold;
 }
 
